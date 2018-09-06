@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "586576881866",
+    "firebase_url": "https://jerryapp-7222c.firebaseio.com",
+    "project_id": "jerryapp-7222c",
+    "storage_bucket": "jerryapp-7222c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586576881866:android:349b3962fdb6cfdc",
+        "android_client_info": {
+          "package_name": "com.alletry.jerryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586576881866-iu84flpaarp2jb93ivmfnoiomlfu4v6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alletry.jerryapp",
+            "certificate_hash": "84c484756611cb475621b4c1ccbd1283b0abd8c5"
+          }
+        },
+        {
+          "client_id": "586576881866-cmg8lphv6p1st75sjh1hcflblr8f3r4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBANlOQFv6ZeJ5XoRb7QImH58kGYKx6qfo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586576881866-cmg8lphv6p1st75sjh1hcflblr8f3r4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
